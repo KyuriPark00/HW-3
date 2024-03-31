@@ -12,6 +12,7 @@ main {
   justify-content: center;
   flex-wrap: wrap;
   width: 1200px;
+  margin-bottom: 30px;
 }
 
 header > h1 {
