@@ -110,7 +110,7 @@ input[type="checkbox"] {
     to {opacity: 1;}
 }
 
-#done input[type="checkbox2"]:checked::after {
+#done input[type="checkbox"]:checked::after {
     content: '\2713';
     color: rgb(216, 17, 189);
     font-weight: 900;
