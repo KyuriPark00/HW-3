@@ -6,7 +6,6 @@ body {
 }
 
 main {
-  background-image: url(../images/notebackground.png) repeat;
   display: flex;  
   justify-content: center;
   flex-wrap: wrap;
